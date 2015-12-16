@@ -1,0 +1,6 @@
+c:\users\cd12\documents\visual studio 2015\Projects\ProxyVerify\ProxyVerify\bin\Debug\ProxyVerify.exe.config
+c:\users\cd12\documents\visual studio 2015\Projects\ProxyVerify\ProxyVerify\bin\Debug\ProxyVerify.exe
+c:\users\cd12\documents\visual studio 2015\Projects\ProxyVerify\ProxyVerify\bin\Debug\ProxyVerify.pdb
+c:\users\cd12\documents\visual studio 2015\Projects\ProxyVerify\ProxyVerify\obj\Debug\ProxyVerify.csprojResolveAssemblyReference.cache
+c:\users\cd12\documents\visual studio 2015\Projects\ProxyVerify\ProxyVerify\obj\Debug\ProxyVerify.exe
+c:\users\cd12\documents\visual studio 2015\Projects\ProxyVerify\ProxyVerify\obj\Debug\ProxyVerify.pdb
